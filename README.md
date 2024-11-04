@@ -12,3 +12,4 @@ my codewars completed kata`s
 
 [List Filtering](JS/List%20Filtering.js) -7kyu \
 [CSV representation of array](JS/CSV%20representation%20of%20array.js) -8kyu \
+[Descending Order](JS/Descending%20Order.js) -7kyu \
