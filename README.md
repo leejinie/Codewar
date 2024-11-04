@@ -11,6 +11,7 @@ my codewars completed kata`s
 [Convert a Boolean to a String](JS/Convert%20a%20Boolean%20to%20a%20String.js) -8kyu \
 [Is there a vowel in there?](JS/Is%20there%20a%20vowel%20in%20there.js) -8kyu \
 [CSV representation of array](JS/CSV%20representation%20of%20array.js) -8kyu \
+[Grasshopper - Summation](JS/Grasshopper%20-%20Summation.js) -8kyu \
 [List Filtering](JS/List%20Filtering.js) -7kyu \
 [Vowel Count](JS/Vowel%20Count.js) -7kyu \
 [Descending Order](JS/Descending%20Order.js) -7kyu \
