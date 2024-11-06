@@ -13,6 +13,7 @@ my codewars completed kata`s
 [CSV representation of array](JS/CSV%20representation%20of%20array.js) -8kyu \
 [Returning Strings](JS/Returning%20Strings.js) - 8kyu \
 [Chuck Norris VII - True or False? (Beginner)](JS/Chuck%20Norris%20VII%20-%20True%20or%20False(Beginner).js) -8kyu \
+[Convert number to reversed array of digits](JS/Convert%20number%20to%20reversed%20array%20of%20digits.js) -8kyu \
 [Strings, strings, strings (Easy)](JS/Strings,%20strings,%20strings%20(Easy).js) -7kyu \
 [Grasshopper - Summation](JS/Grasshopper%20-%20Summation.js) -8kyu \
 [List Filtering](JS/List%20Filtering.js) -7kyu \
