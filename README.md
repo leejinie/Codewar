@@ -28,3 +28,12 @@ my codewars completed kata`s
 [List Filtering](JS/List%20Filtering.js) -7kyu \
 [Vowel Count](JS/Vowel%20Count.js) -7kyu \
 [Descending Order](JS/Descending%20Order.js) -7kyu \
+
+
+### Python :
+
+[Return Negative](Python/Return%20Negative.py) - 8kyu \
+[Multiply](Python/Multiply.py) - 8kyu \
+[Pythagorean Triple](Python/Pythagorean%20Triple.py) - 8kyu \
+[Generate user links](Python/Generate%20user%20links.py) -8kyu \
+[Convert a Number to a String!](Python/Convert%20a%20Number%20to%20a%20String!.py) -8kyu \
